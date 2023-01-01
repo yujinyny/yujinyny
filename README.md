@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinyny&theme=dark&layout=compact" />
-</div>
-<br/>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=yujinyny&theme=dark" />
 </div>
 
