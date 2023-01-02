@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&fontAlignY=45&text=Hi👋&nbsp;I'm&nbsp;Yujin&color=0:ED7D31,100:5B9BD5" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&fontAlignY=45&text=Hi👋&nbsp;I'm&nbsp;Yujin&color=ffffff" />
 </div>
 
 <h2 align="center">✨ Tech Stack ✨</h2>
@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=125&color=0:ED7D31,100:5B9BD5" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=125&color=ffffff" />
 </div>
